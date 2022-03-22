@@ -1,0 +1,73 @@
+﻿name,ring,quadrant,isNew,description
+React,Adopt,Frameworks,TRUE,React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. Used in FDO at Microsoft. Used at LaSalle/LAMP
+GraphQL,Adopt,Frameworks,TRUE,"GraphQL is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. Used at LaSalle/LAMP"
+React-query,Adopt,Frameworks,TRUE,"Fetch, cache and update data in your React and React Native applications all without touching any ""global state""."
+React Native,Adopt,Frameworks,TRUE,"React Native is an open-source UI software framework used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities"
+Xamarin iOS / Xamarin Android,Adopt,Frameworks,TRUE,Valorem has done work on these for MSFT XBox video & Channel 9 apps
+Xamarin Forms,Adopt,Frameworks,TRUE,Valorem has worked on these before
+.NET / .NET Core,Adopt,Platforms,TRUE,"NET Core is the latest version of Microsoftâ€™s .NET Framework( The framework is a re-usable design platform for software systems, which provides support for code libraries and various scripting languages ), which is a free, open-source, general-purpose programming platform. It's a cross-platform framework that works with Windows, Mac OS X, and Linux.Used in MW"
+Docker,Adopt,Platforms,TRUE,Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Used at LaSalle on the LAMP product; Used at LaSalle/LAMP. Used in MW
+Kubernetes,Adopt,Platforms,TRUE,"Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management. Used at LaSalle/LAMP"
+Azure Service Bus,Adopt,Platforms,TRUE,Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics.Used in MW
+Azure FrontDoor,Adopt,Platforms,TRUE,Azure Front Door is an application delivery network (ADN) service that offers Layer 7 load-balancing capabilities for your applications. Used at LaSalle/LAMP
+Azure App Service,Adopt,Platforms,TRUE,"Azure Web Apps is a cloud computing based platform for hosting websites, created and operated by Microsoft. It is a platform as a service which allows publishing Web apps running on multiple frameworks and written in different programming languages.Used in MW"
+Azure Function Apps,Adopt,Platforms,TRUE,Azure Functions (from Microsoft Azure) is a cloud-based serverless service that allows running event-triggered code in a scalable way without providing or managing infrastructure. It enables the capability to run a script or piece of code in response to a variety of events and doesn't need to run continuously. Used at LaSalle/LAMP
+Azure App Insights,Adopt,Platforms,TRUE,Application Insights is a feature of Azure Monitor that provides extensible application performance management (APM) and monitoring for live web apps; Used at LaSalle/LAMP.Used in MW
+SQL Azure,Adopt,Platforms,TRUE,Fully Managed SQL Server databses. Used for Relational Data Stores.Used in MW
+Azure Cosmos DB,Adopt,Platforms,TRUE,Fully Managed NoSQL Databse. Used for Document Data Stores.Used in MW
+Key Vault,Adopt,Platforms,TRUE,Azure Key Vault is a cloud service for securely storing and accessing secrets. Used at LaSalle/LAMP.Used in MW
+Visual Studio 2022,Adopt,Tools,TRUE,Microsoft Visual Studio is an integrated development environment from Microsoft. Used in MW
+Helm Charts,Adopt,Tools,TRUE,"Helm Charts help you define, install, and upgrade even the most complex Kubernetes application."
+Terraform,Adopt,Tools,TRUE,Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language. Used at LaSalle/LAMP. Used in MW
+Azure DevOps Pipelines,Adopt,Tools,TRUE,Used at LaSalle/LAMP. Used in MW
+Azure Notebooks,Adopt,Tools,TRUE,Share behavior/code between individuals in isolcation allowing for commits into repositories without the need for a full application.
+ARM based deployment,Adopt,Tools,TRUE,"ARM Templates are a way to declare the objects you want, the types, names and properties in a JSON file which can be checked into source control. Used in MW"
+MongoDB,Adopt,Platforms,TRUE,"MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. Used at LaSalle/LAMP"
+RabbitMQ,Adopt,Platforms,TRUE,Used at LaSalle/LAMP
+ElasticSearch,Adopt,Platforms,TRUE,Used at LaSalle/LAMP
+cert-manager.io,Trial,Platforms,TRUE,Automate certificate management in cloud native environments
+Octopus Deploy,Trial,Platforms,TRUE,Automate Development workflows.
+Event storming,Trial,Techniques,TRUE,
+Feature flags / toggles,Trial,Techniques,TRUE,"This is a software engineering technique that turns select functionality on and off during runtime, without deploying new code.Used in MW"
+GitHub Actions,Trial,Tools,TRUE,
+K6.io,Trial,Tools,TRUE,k6 is an open-source tool and cloud service that makes load testing easy for developers and QA engineers.
+mabl,Trial,Tools,TRUE,"mabl is the leading intelligent, low-code test automation solution that enables high-velocity software teams to tightly integrate automated end-to-end tests"
+Azure Kubernetes Service,Trial,Frameworks,TRUE,"AKS is a fully managed Kubernetes service offered by Azure, which offers serverless Kubernetes, security, and governance"
+Docker Swarm,Trial,Frameworks,TRUE,"A docker swarm is comprised of a group of physical or virtual machines operating in a cluster. When a machine joins the cluster, it becomes a node in that swarm. The docker swarm function recognizes three different types of nodes, each with a different role within the docker swarm ecosystem"
+Open Container Initiative,Trial,Techniques,TRUE,The technical community working on developing standards around container formats and runtime technology
+Azure Service Fabric,Assess,Platforms,TRUE,
+Blazor,Assess,Frameworks,TRUE,
+.NET MAUI,Assess,Frameworks,TRUE,.NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML.
+Flutter,Assess,Frameworks,TRUE,"Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase"
+Python,Assess,Frameworks,TRUE,"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
+Powershell,Assess,Frameworks,TRUE,Used at LaSalle/LAMP. Used in MW
+Formik,Assess,Frameworks,TRUE,
+.NET Core Web API,Assess,Frameworks,TRUE,Used in MW
+React-table,Assess,Frameworks,TRUE,
+F#,Assess,Frameworks,TRUE,
+Okta,Assess,Platforms,TRUE,
+Azure Cognitive Search,Assess,Platforms,TRUE,Cloud search service with built-in AI capabilities that enrich all types of information to help you identify and explore relevant content at scale.Used in MW
+Azure Machine Learning,Assess,Platforms,TRUE,"Easily Build, Train, and Deploy Machine Learning Models.Used in MW"
+Veracode,Assess,Platforms,TRUE,
+Service Mesh,Assess,Platforms,TRUE,A service mesh is a dedicated infrastructure layer built into an application that controls service-to-service communication in a microservices architecture
+Kafka,Assess,Platforms,TRUE,Distributed event streaming platform
+Mesos,Assess,Platforms,TRUE,Apache Mesos is an open-source cluster manager
+Istio,Assess,Platforms,TRUE,
+AppSec Manual Penetration Testing (MPT),Assess,Techniques,TRUE,"Manual penetration testing is the testing that is done by human beings. In such type of testing, vulnerability and risk of a machine is tested by an expert engineer"
+AppSec Static application security testing (SAST),Assess,Techniques,TRUE,Static application security testing (SAST) is a type of security testing that relies on inspecting the source code of an application
+AppSec Dynamic application security testing (DAST),Assess,Techniques,TRUE,"Dynamic application security testing (DAST) evaluates applications that are in runtime. Dynamic analysis
+instruments a browser to actively attack the running application."
+Model-View-Controller,Assess,Techniques,TRUE,
+Single Sign On (SSO) Techniques,Assess,Techniques,TRUE,
+Event-driven architecture,Assess,Techniques,TRUE,"Kafka, RabbitMQ for queues"
+Microservice architecture,Assess,Techniques,TRUE,"Refers to a software development method that structures an application as a combined collection of services. Essentially, this suite of applications is deployed as a complete application in its own right and these services all work together to make up the entire application"
+Domain-driven design,Assess,Techniques,TRUE,
+Azure API Gateway,Assess,Techniques,TRUE,"An API Gateway is a server(proxy) endpoint that sits in front of your backend services. Its main purpose is to secure access by: Throttling API requests trough usage quotas and limits. Support for multi region deployment. Access control of API keys, and other credentials such as certificates, JWT token validation"
+ELK,Assess,Tools,TRUE,"Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents."
+Dynatrace,Assess,Tools,TRUE,"Dynatrace is a software-intelligence monitoring platform that assists in driving performance results by providing development, operations, and business teams with a shared platform, metrics."
+DataDog,Assess,Tools,TRUE,"Datadog is an observability service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform"
+Splunk,Assess,Tools,TRUE,"Splunk Inc. is a software for searching, monitoring, and analyzing machine-generated data via a Web-style interface."
+Azure Data Studio,Assess,Tools,TRUE,Azure Data Studio is a cross-platform database tool for data professionals who use on-premises and cloud data platforms. Used in MW
+Virtual Machines,Hold,Platforms,TRUE,"In computing, a virtual machine is the virtualization/emulation of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer.Used in MW"
+Jenkins,Hold,Tools,TRUE,"Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software."
+TeamCity,Hold,Tools,TRUE,TeamCity is a build management and continuous integration server from JetBrains.

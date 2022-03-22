@@ -6,15 +6,15 @@ Azure Active Directory,Adopt,Platforms,TRUE,"Azure Active Directory provides an 
 .NET / .NET Core,Adopt,Platforms,TRUE,"NET Core is the latest version of Microsoftâ€™s .NET Framework( The framework is a re-usable design platform for software systems, which provides support for code libraries and various scripting languages ), which is a free, open-source, general-purpose programming platform. Itâ€™s a cross-platform framework that works with Windows, Mac OS X, and Linux."
 Docker,Adopt,Platforms,TRUE,Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 Kubernetes,Adopt,Platforms,TRUE,"Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management."
-Azure Service Bus,Adopt,Platforms,TRUE,
+Azure Service Bus,Adopt,Platforms,TRUE,Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics
 SQL,Adopt,Platforms,TRUE,
-Azure FrontDoor,Adopt,Platforms,TRUE,
-Azure App Service,Adopt,Platforms,TRUE,
-Azure Function Apps,Adopt,Platforms,TRUE,
-Azure App Insights,Adopt,Platforms,TRUE,
+Azure FrontDoor,Adopt,Platforms,TRUE,Azure Front Door is an application delivery network (ADN) service that offers Layer 7 load-balancing capabilities for your applications. 
+Azure App Service,Adopt,Platforms,TRUE,"Azure Web Apps is a cloud computing based platform for hosting websites, created and operated by Microsoft. It is a platform as a service which allows publishing Web apps running on multiple frameworks and written in different programming languages"
+Azure Function Apps,Adopt,Platforms,TRUE,Azure Functions (from Microsoft Azure) is a cloud-based serverless service that allows running event-triggered code in a scalable way without providing or managing infrastructure. It enables the capability to run a script or piece of code in response to a variety of events and doesn't need to run continuously.
+Azure App Insights,Adopt,Platforms,TRUE,Application Insights is a feature of Azure Monitor that provides extensible application performance management (APM) and monitoring for live web apps
 SQL Azure,Adopt,Platforms,TRUE,Fully Managed SQL Server databses. Used for Relational Data Stores
 Azure Cosmos DB,Adopt,Platforms,TRUE,Fully Managed NoSQL Databse. Used for Document Data Sroes.
-Key Vault,Adopt,Platforms,TRUE,Maintain cotrol of keys and secrets.
+Key Vault,Adopt,Platforms,TRUE,Azure Key Vault is a cloud service for securely storing and accessing secrets.
 Kanban,Adopt,Techniques,TRUE,
 Scrum,Adopt,Techniques,TRUE,
 Visual Studio 2022,Adopt,Tools,TRUE,
@@ -46,7 +46,7 @@ Powershell,Assess,Frameworks,TRUE,
 Formik,Assess,Frameworks,TRUE,
 .NET Core Web API,Assess,Frameworks,TRUE,
 React-table,Assess,Frameworks,TRUE,
-F#,Assess,Frameworks,TRUE,"I'd like to implement one small thing in F#, deploy it to production, and see how it goes."
+F#,Assess,Frameworks,TRUE,
 Okta,Assess,Platforms,TRUE,
 Azure Cognitive Search,Assess,Platforms,TRUE,
 Azure Machine Learning,Assess,Platforms,TRUE,
